@@ -4,6 +4,10 @@ A containerized Python application built following the [Dynamic DevOps Roadmap](
 
 The app reads its version from a local `version.txt` file and prints it. A missing version file fails loudly with an error on `stderr` and a non-zero exit code.
 
+<p align="center">
+  <img src="https://devopsroadmap.io/img/hivebox-architecture.gif" width="60%" />
+</p>
+
 ## Prerequisites
 
 - [Docker](https://docs.docker.com/get-docker/) installed
